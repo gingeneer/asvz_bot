@@ -1,3 +1,6 @@
+# ignore config file to not leak api key
+config.json
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
